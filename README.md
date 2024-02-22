@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">I'm Martin (@KopyTKG) from Czech republic<br><br><br>- 🔭 I’m studying as university<br>- 📚 I'm currently exploring more langueges and platforms <br>- ⚡ In my free time I like to fullaround React and React based frameworks such as NextJS. Lately i'm interested in ReactNative.</p>
+<p align="left">I'm Martin (@KopyTKG) from Czech republic<br><br><br>- 🔭 I’m a student at university<br>- 📚 I'm currently exploring more langueges and platforms such as Tauri <br>- ⚡ In my free time I like to fullaround NextJS. Lately i'm interested in ReactNative and building desktop apps with Tauri.</p>
 
 ###
 
