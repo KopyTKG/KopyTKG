@@ -12,10 +12,6 @@
 
 <br clear="both">
 
-<h2 align="left">👩‍💻  About Me</h2>
-
-###
-
 <p align="left">I'm Martin (@KopyTKG) from Czech republic<br><br><br>- 🔭 I’m studying as university<br>- 📚 I'm currently exploring more langueges and platforms <br>- ⚡ In my free time I like to fullaround React and React based frameworks such as NextJS. Lately i'm interested in ReactNative.</p>
 
 ###
