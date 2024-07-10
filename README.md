@@ -20,7 +20,7 @@
 
 ###
 
-<table>
+<table style="place-items: center;">
 <tr>
  <th> Frontend </th>
  <th> BackEnd </th>
