@@ -20,6 +20,12 @@
 
 ###
 
+<style type="text/css">
+  td {
+    padding: 0 20px;
+  }
+</style>
+
 <table align="center">
 <tr>
  <th> Frontend </th>
