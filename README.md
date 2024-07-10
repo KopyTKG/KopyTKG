@@ -20,12 +20,6 @@
 
 ###
 
-<style type="text/css">
-  td {
-    padding: 0 20px;
-  }
-</style>
-
 <table align="center">
 <tr>
  <th> Frontend </th>
@@ -33,44 +27,44 @@
  <th> Other </th>
 </tr>
 <tr>
-    <td><img src="./assets/next.svg" alt="" style="width:100px;"/></td>
-    <td><img src="./assets/ts.svg" alt="" style="width:100px;"/></td>
-    <td><img src="./assets/redis.svg" alt="" style="width:100px;"/></td>
+    <td><img src="./assets/next.svg" alt="" style="width:50px;"/></td>
+    <td><img src="./assets/ts.svg" alt="" style="width:50px;"/></td>
+    <td><img src="./assets/redis.svg" alt="" style="width:50px;"/></td>
 </tr>
 <tr>
-    <td><img src="./assets/tailwind.svg" alt="" style="width:100px;"/></td>
-    <td><img src="./assets/js.png" alt="" style="width:100px;"/></td>
-    <td><img src="./assets/mongo.svg" alt="" style="width:100px;"/></td>
+    <td><img src="./assets/tailwind.svg" alt="" style="width:50px;"/></td>
+    <td><img src="./assets/js.png" alt="" style="width:50px;"/></td>
+    <td><img src="./assets/mongo.svg" alt="" style="width:50px;"/></td>
 </tr>
 <tr>
-    <td><img src="./assets/framer-motion.svg" alt="" style="width:100px;"/></td>
-    <td><img src="./assets/node.png" alt="" style="width:100px;"/></td>
-    <td><img src="./assets/postgres.png" alt="" style="width:100px;"/></td>
+    <td><img src="./assets/framer-motion.svg" alt="" style="width:50px;"/></td>
+    <td><img src="./assets/node.png" alt="" style="width:50px;"/></td>
+    <td><img src="./assets/postgres.png" alt="" style="width:50px;"/></td>:
 </tr>
 <tr>
-    <td><img src="./assets/react.svg" alt="" style="width:100px;"/></td>
-    <td><img src="./assets/go.png" alt="" style="width:100px;"/></td>
-    <td><img src="./assets/tauri.svg" alt="" style="width:100px;"/></td>
+    <td><img src="./assets/react.svg" alt="" style="width:50px;"/></td>
+    <td><img src="./assets/go.png" alt="" style="width:50px;"/></td>
+    <td><img src="./assets/tauri.svg" alt="" style="width:50px;"/></td>
 </tr>
 <tr>
-    <td><img src="./assets/css.png" alt="" style="width:100px;"/></td>
-    <td><img src="./assets/python.svg" alt="" style="width:100px;"/></td>
-    <td><img src="./assets/docker.svg" alt="" style="width:100px;"/></td>
-</tr>
-<tr>
-    <td></td>
-    <td><img src="./assets/cpp.png" alt="" style="width:100px;"/></td>
-    <td><img src="./assets/ansible.png" alt="" style="width:100px;"/></td>
+    <td><img src="./assets/css.png" alt="" style="width:50px;"/></td>
+    <td><img src="./assets/python.svg" alt="" style="width:50px;"/></td>
+    <td><img src="./assets/docker.svg" alt="" style="width:50px;"/></td>
 </tr>
 <tr>
     <td></td>
-    <td></td>
-    <td><img src="./assets/tux.png" alt="" style="width:100px;"/></td>
+    <td><img src="./assets/cpp.png" alt="" style="width:50px;"/></td>
+    <td><img src="./assets/ansible.png" alt="" style="width:50px;"/></td>
 </tr>
 <tr>
     <td></td>
     <td></td>
-    <td><img src="./assets/git.png" alt="" style="width:100px;"/></td>
+    <td><img src="./assets/tux.png" alt="" style="width:50px;"/></td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+    <td><img src="./assets/git.png" alt="" style="width:50px;"/></td>
 </tr>
 </table>
 
