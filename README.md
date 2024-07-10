@@ -39,7 +39,7 @@
 <tr>
     <td><img src="./assets/framer-motion.svg" alt="" style="width:50px;"/></td>
     <td><img src="./assets/node.png" alt="" style="width:50px;"/></td>
-    <td><img src="./assets/postgres.png" alt="" style="width:50px;"/></td>:
+    <td><img src="./assets/postgres.png" alt="" style="width:50px;"/></td>
 </tr>
 <tr>
     <td><img src="./assets/react.svg" alt="" style="width:50px;"/></td>
