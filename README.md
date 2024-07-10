@@ -20,7 +20,7 @@
 
 ###
 
-<table style="margin: auto;">
+<table align="center">
 <tr>
  <th> Frontend </th>
  <th> BackEnd </th>
