@@ -27,7 +27,7 @@
  <th> Other </th>
 </tr>
 <tr>
-    <td><img src="./assets/next.svg" alt=""/></td>
+    <td><img src="./assets/next.svg" alt="" style="width=10px;"/></td>
     <td></td>
     <td></td>
 </tr>
@@ -66,10 +66,6 @@
     <td></td>
     <td></td>
 </tr>
-| ------------- | -------------- | -------------- |
-|  | Item1 | Item1 |
-
-
 </table>
 
 
