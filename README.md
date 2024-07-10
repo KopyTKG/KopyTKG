@@ -28,8 +28,8 @@
 </tr>
 <tr>
     <td><img src="./assets/next.svg" alt="" style="width=10px;"/></td>
-    <td></td>
-    <td></td>
+    <td><img src="./assets/ts.svg" alt="" style="width=10px;"/></td>
+    <td><img src="./assets/redis.svg" alt="" style="width=10px;"/></td>
 </tr>
 <tr>
     <td></td>
