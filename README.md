@@ -20,7 +20,7 @@
 
 ###
 
-<table style="place-items: center;">
+<table style="margin: auto;">
 <tr>
  <th> Frontend </th>
  <th> BackEnd </th>
