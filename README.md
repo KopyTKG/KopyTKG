@@ -2,17 +2,12 @@
 
 ###
 
-<div align="left">
-  <a href="https://discord.gg/ZtjNUMHm8C" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
-<p align="left">I'm Martin (@KopyTKG) from Czech republic<br><br><br>- 🔭 I’m a student at university<br>- 📚 I'm currently exploring more langueges and platforms such as Tauri <br>- ⚡ In my free time I like to fullaround NextJS. Lately i'm interested in ReactNative and building desktop apps with Tauri.</p>
+<p align="left">I'm Martin (@KopyTKG) from Czech republic<br><br><br>
+- 🔭 I’m a student at university<br>
+- 📚 I'm currently exploring devops and sysadmin side of it. <br>
+- ⚡ Lately i've been busy with making HPC cluster with openStack</p>
 
 ###
 
