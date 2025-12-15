@@ -2,6 +2,13 @@
 
 ###
 
+> [!IMPORTANT]
+> **All repositories are no longer maintained.**
+>
+> As of 15.12.2025, all development has moved to GitLab. Please visit the new repository for updates, issues, and pull requests:
+>
+> 👉 **[gitlab.com/kopytkg](https://gitlab.com/kopytkg)**
+
 <br clear="both">
 
 <p align="left">I'm Martin (@KopyTKG) from Czech republic<br><br><br>
